@@ -39,6 +39,24 @@ This phase involved refining the dataset by:
 - Merging the enriched TMDb data with my Letterboxd exports.
 Refer to the Jupyter Notebook `consolidate_data.ipynb` for detailed cleaning procedures.
 
+## Dataset Information
+This dataset contains my enriched diary of 326 entries. Each entry includes attributes such as:
+- Title
+- Release Date
+- Watch Date
+- Rating
+- Genres
+- Runtime
+- Director
+- Cast
+- Origin Country
+- Original Language
+- Movie ID in the TMDb
+- Many more attributes from the TMDb API that I chose not to include in the analysis, but are available for further exploration in the future.
+
+There are also three additional tables for genres, directors, and origin countries; pivoted values to facilitate analysis.
+
+
 ## Exploratory Data Analysis
 
 A comprehensive analysis was conducted to understand the dataset's structure and to uncover any underlying patterns. Key focus areas included:
