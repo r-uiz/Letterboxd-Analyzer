@@ -28,7 +28,7 @@ Letterboxd serves as a vibrant social platform for film enthusiasts to share and
 
 ## Data Gathering
 
-Data was initially extracted from my Letterboxd account as a CSV file containing basic movie details such as title, release year, and my personal ratings. To enrich this data, I utilized the TMDb API to fetch additional attributes including genres, runtime, and cast details, as demonstrated in the [Jupyter Notebook](consolidate_data.ipynb).
+Data was initially extracted from my Letterboxd account as a CSV file containing basic movie details such as title, release year, and my personal ratings. To enrich this data, I utilized the TMDb API to fetch additional attributes including genres, runtime, and cast details, as demonstrated in the [Data-Get Jupyter Notebook](consolidate_data.ipynb).
 
 ## Data Cleaning
 
@@ -37,7 +37,7 @@ This phase involved refining the dataset by:
 - Handling missing values appropriately.
 - Converting data types for analysis readiness.
 - Merging the enriched TMDb data with my Letterboxd exports.
-Refer to the [Jupyter Notebook](consolidate_data.ipynb) for detailed cleaning procedures.
+Refer to the [Data-Get Jupyter Notebook](consolidate_data.ipynb) for detailed cleaning procedures.
 
 ## Dataset Information
 This dataset contains my enriched diary of 326 entries. Each entry includes attributes such as:
@@ -65,7 +65,7 @@ A comprehensive analysis was conducted to understand the dataset's structure and
 - Top directors and actors by movie count.
 - Insights on rewatches and ratings.
 - Deep dives into highly rated movies and their attributes.
-Check out [Jupyter Notebook exploration](EDA.working_data.ipynb) for detailed exploratory steps.
+Check out [Data-Explore Jupyter Notebook](EDA.working_data.ipynb) for detailed exploratory steps.
 
 ## Data Visualization
 
