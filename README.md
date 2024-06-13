@@ -6,6 +6,7 @@ Welcome to my data analysis project where I dive into my personal movie diary fr
 
 - [Introduction](#introduction)
 - [Project Objectives](#project-objectives)
+- [Python Skills Used](#python-skills-used)
 - [Data Gathering](#data-gathering)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -25,6 +26,19 @@ Letterboxd serves as a vibrant social platform for film enthusiasts to share and
 - To conduct a thorough exploratory data analysis to discover trends in movie ratings, genres, and viewer preferences.
 - To visualize the findings using Python's Matplotlib and Tableau for clear, impactful insights.
 - To identify my top watched directors, actors, and explore genre popularity over time.
+
+## Python Skills Used
+- **Data Cleaning**: Preparing raw data for analysis by handling missing values, outliers, and inconsistencies.
+- **Data Merging**: Combining data from multiple sources into a unified dataset.
+- **Pandas**: Utilizing the pandas library for efficient data manipulation and analysis.
+- **Data Transformation**: Converting data into a suitable format for analysis.
+- **Data Visualization**: Creating informative visualizations using Matplotlib and Seaborn.
+- **Statistical Analysis**: Performing statistical tests and analysis to draw insights from data.
+- **Jupyter Notebooks**: Documenting and presenting data analysis using Jupyter Notebooks for reproducible research.
+- **Exploratory Data Analysis (EDA)**: Analyzing data to summarize its main characteristics, often with visual methods.
+- **Data Importing and Exporting**: Reading data from various sources and writing results to files.
+
+Feel free to explore the Jupyter notebooks to see my work in action. If you have any questions or feedback, please don't hesitate to reach out!
 
 ## Data Gathering
 
@@ -73,7 +87,7 @@ The insights derived from the analysis were visualized through engaging graphs a
 
 ## Insights and Findings
 
-The project revealed fascinating insights such as my preference trends over different genres and how my movie ratings correlate with movie popularity and critical acclaim.
+The project revealed fascinating insights such as my preference trends over different genres and how my movie ratings correlate with directors/actors.
 
 ## Technologies Used
 
@@ -96,3 +110,7 @@ The project revealed fascinating insights such as my preference trends over diff
 For more insights and visual presentations, check out the [Letterboxd All-Time Stats - Tableau Workbook](https://public.tableau.com/views/LetterboxdAll-TimeStats/Summary).
 
 For more about my projects and data journey, visit my [Portfolio](https://www.notion.so/ruizdelcarmen/Ruiz-del-Carmen-Data-Portfolio-e725748d0e0546c386be6c6c7dc49099).
+
+---
+
+*Note: To view the Jupyter notebooks, navigate to the respective file paths provided in each project description.*
