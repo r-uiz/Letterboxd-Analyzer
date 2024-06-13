@@ -18,14 +18,14 @@ Welcome to my data analysis project where I dive into my personal movie diary fr
 
 ## Introduction
 
-Letterboxd serves as a vibrant social platform for film enthusiasts to share and discover film reviews and ratings. Intrigued by the storytelling potential of data in my own movie-watching experiences, I embarked on this project to uncover trends and patterns from my Letterboxd movie diary.
+Letterboxd is a vibrant social platform where movie lovers can share and discover reviews and ratings. Curious about the patterns in my own movie-watching habits, I started this project to explore the trends in my Letterboxd movie diary.
 
 ## Project Objectives
 
-- To merge and clean data exported from Letterboxd and supplemented by the TMDb API.
-- To conduct a thorough exploratory data analysis to discover trends in movie ratings, genres, and viewer preferences.
+- To merge and clean data exported from my Letterboxd data and supplemented by the TMDb API.
+- To conduct a thorough exploratory data analysis to discover trends in movie ratings, genres, and my viewing preferences.
 - To visualize the findings using Python's Matplotlib and Tableau for clear, impactful insights.
-- To identify my top watched directors, actors, and explore genre popularity over time.
+- To identify my top watched directors, actors, and explore insights over movie release and watch dates.
 
 ## Python Skills Used
 - **Data Cleaning**: Preparing raw data for analysis by handling missing values, outliers, and inconsistencies.
@@ -97,10 +97,10 @@ The project revealed fascinating insights such as my preference trends over diff
 
 ## Future Directions
 
-- Development of a web application to interactively explore the data of other people's movie diaries.
+- Development of a web application to interactively explore the data of other people's movie diaries. Either via diary.csv upload or through username → webscraping.
 - Deepclean the code and optimize for performance.
 	- Define functions to reduce code replication.
-	- Utilize the `tmdbsimple` Python library for data retrieval.
+	- Utilize the `tmdbsimple` Python library for data retrieval for simplicity.
 	- Minimize file generation and manual data editing.
 	- Optimize API requests for efficiency.
 	- Enhance data update capabilities.
