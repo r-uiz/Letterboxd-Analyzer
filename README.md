@@ -83,9 +83,9 @@ Check out [Data-Explore Jupyter Notebook](EDA.working_data.ipynb) for detailed e
 
 ## Data Visualization
 
-The insights derived from the analysis were visualized through engaging graphs and interactive dashboards in Tableau, accessible [here](https://public.tableau.com/views/LetterboxdAll-TimeStats/Summary). Highlights include KPI summaries and detailed genre, watch-date, and release-date analytics.
+The insights derived from the analysis were visualized through engaging graphs and interactive dashboards in Tableau, accessible [here](https://public.tableau.com/app/profile/ruiz/viz/LetterboxdAll-TimeStats/Summary). Highlights include KPI summaries and detailed genre, watch-date, and release-date analytics.
 
-<div class='tableauPlaceholder' id='viz1718287424225' style='position: relative'><noscript><a href='https:&#47;&#47;letterboxd.com&#47;riuz&#47;stats&#47;'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LetterboxdAll-TimeStats&#47;Summary&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LetterboxdAll-TimeStats&#47;Summary' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LetterboxdAll-TimeStats&#47;Summary&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1718287424225' style='position: relative'><noscript><a href='https://public.tableau.com/app/profile/ruiz/viz/LetterboxdAll-TimeStats/Summary'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LetterboxdAll-TimeStats&#47;Summary&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LetterboxdAll-TimeStats&#47;Summary' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LetterboxdAll-TimeStats&#47;Summary&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
 
 ## Insights and Findings
 
@@ -109,9 +109,9 @@ The project revealed fascinating insights such as my preference trends over diff
 
 ## General Information
 
-For more insights and visual presentations, check out the [Letterboxd All-Time Stats - Tableau Workbook](https://public.tableau.com/views/LetterboxdAll-TimeStats/Summary).
+For more insights and visual presentations, check out the [Letterboxd All-Time Stats - Tableau Workbook](https://public.tableau.com/app/profile/ruiz/viz/LetterboxdAll-TimeStats/Summary).
 
-For more about my projects and data journey, visit my [Portfolio](https://www.notion.so/ruizdelcarmen/Ruiz-del-Carmen-Data-Portfolio-e725748d0e0546c386be6c6c7dc49099).
+For more about my projects and data journey, visit my [Portfolio](https://ruiz.super.site/).
 
 ---
 
