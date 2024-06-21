@@ -21,10 +21,19 @@ Letterboxd serves as a vibrant social platform for film enthusiasts to share and
 
 ## Project Objectives
 
-- To merge and clean data exported from Letterboxd and supplemented by the TMDb API.
-- To conduct a thorough exploratory data analysis to discover trends in movie ratings, genres, and viewer preferences.
-- To visualize the findings using Python's Matplotlib and Tableau for clear, impactful insights.
-- To identify my top watched directors, actors, and explore genre popularity over time – and unearth some insights I never knew about my movie-watching habits.
+1. **Viewing Habits:**
+    - What are the most common genres watched?
+    - How have viewing patterns changed over time?
+    - What are the most watched directors, actors, or writers?
+    - What are some insights into the movies I end up rewatching?
+2. **Movie Ratings:**
+    - What is the distribution of movie ratings?
+    - Are there particular genres or directors that consistently receive higher ratings?
+3. **Correlations and Insights:**
+    - Is there a correlation between the length of a movie and its rating?
+    - Are certain genres or types of movies more popular during specific seasons or months?
+    - Does watching movies from certain countries or in certain languages correlate with higher enjoyment or ratings?
+    - Are newer movies rated more favorably than older ones?
 
 ## Data Gathering
 
