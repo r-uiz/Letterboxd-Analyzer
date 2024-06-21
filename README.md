@@ -94,6 +94,7 @@ The project revealed fascinating insights such as my preference trends over diff
 ## Future Directions
 
 - Development of a web application to interactively explore the data of other people's movie diaries.
+- Not all business questions were answered; skipped through some to have time for other potential projects.
 - Deepclean the code and optimize for performance.
 	- Define functions to reduce code replication.
 	- Utilize the `tmdbsimple` Python library for data retrieval.
