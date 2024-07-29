@@ -102,6 +102,8 @@ Each movie listed meets at least three of the specified attributes, whether thro
 ## General Information
 
 To gather and enrich the data, I exported my data from Letterboxd then used Python to request additional data from the TMDb API. The data was then cleaned, processed, and explored in Python (some cleaning were made in Excel as well), before being visualized in Tableau.
+- [Cleaning and data gathering Python script here](consolidate_data.ipynb).
+ - [Exploration Python script here](EDA.working_data.ipynb).
 
 Check out the [Letterboxd All-Time Stats - Tableau Workbook](https://public.tableau.com/views/LetterboxdAll-TimeStats/Summary).
 
